@@ -3,4 +3,4 @@ Topic modeling is a machine learning technique that automatically analyzes text 
 
 What is topic modeling in NLP?
  
-Topic modeling is an unsupervised machine learning approach that can scan a series of documents, find word and phrase patterns within them, and automatically cluster word groupings and related expressions that best represent the set
+Topic modeling is an unsupervised machine learning approach that can scan a series of documents, find word and phrase patterns within them, and automatically cluster word groupings and related expressions that best represent the set.
